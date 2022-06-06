@@ -2,8 +2,11 @@
 new-file.txt
 another-file.txt
 file1.txt
+
 # ignore all files in the bin directory
 bin/
 
 # ignore all .tmp files
 *.tmp
+
+# other sections can be added
