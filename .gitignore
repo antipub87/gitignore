@@ -1,7 +1,7 @@
 # ignore single file
 new-file.txt
 another-file.txt
-
+file1.txt
 # ignore all files in the bin directory
 bin/
 
